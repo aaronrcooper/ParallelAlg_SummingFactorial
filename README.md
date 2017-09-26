@@ -1,0 +1,1 @@
+# ParallelAlg_SummingFactorial
