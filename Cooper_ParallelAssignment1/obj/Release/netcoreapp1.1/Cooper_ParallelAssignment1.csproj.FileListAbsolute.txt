@@ -1,0 +1,10 @@
+D:\Clarion University\2017-2018 School Year\CIS 412\Assignments\Cooper_ParallelAssignment1\Cooper_ParallelAssignment1\bin\Release\netcoreapp1.1\Cooper_ParallelAssignment1.deps.json
+D:\Clarion University\2017-2018 School Year\CIS 412\Assignments\Cooper_ParallelAssignment1\Cooper_ParallelAssignment1\bin\Release\netcoreapp1.1\Cooper_ParallelAssignment1.runtimeconfig.json
+D:\Clarion University\2017-2018 School Year\CIS 412\Assignments\Cooper_ParallelAssignment1\Cooper_ParallelAssignment1\bin\Release\netcoreapp1.1\Cooper_ParallelAssignment1.runtimeconfig.dev.json
+D:\Clarion University\2017-2018 School Year\CIS 412\Assignments\Cooper_ParallelAssignment1\Cooper_ParallelAssignment1\bin\Release\netcoreapp1.1\Cooper_ParallelAssignment1.dll
+D:\Clarion University\2017-2018 School Year\CIS 412\Assignments\Cooper_ParallelAssignment1\Cooper_ParallelAssignment1\bin\Release\netcoreapp1.1\Cooper_ParallelAssignment1.pdb
+D:\Clarion University\2017-2018 School Year\CIS 412\Assignments\Cooper_ParallelAssignment1\Cooper_ParallelAssignment1\obj\Release\netcoreapp1.1\Cooper_ParallelAssignment1.csprojResolveAssemblyReference.cache
+D:\Clarion University\2017-2018 School Year\CIS 412\Assignments\Cooper_ParallelAssignment1\Cooper_ParallelAssignment1\obj\Release\netcoreapp1.1\Cooper_ParallelAssignment1.csproj.CoreCompileInputs.cache
+D:\Clarion University\2017-2018 School Year\CIS 412\Assignments\Cooper_ParallelAssignment1\Cooper_ParallelAssignment1\obj\Release\netcoreapp1.1\Cooper_ParallelAssignment1.AssemblyInfo.cs
+D:\Clarion University\2017-2018 School Year\CIS 412\Assignments\Cooper_ParallelAssignment1\Cooper_ParallelAssignment1\obj\Release\netcoreapp1.1\Cooper_ParallelAssignment1.dll
+D:\Clarion University\2017-2018 School Year\CIS 412\Assignments\Cooper_ParallelAssignment1\Cooper_ParallelAssignment1\obj\Release\netcoreapp1.1\Cooper_ParallelAssignment1.pdb
